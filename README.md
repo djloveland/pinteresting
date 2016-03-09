@@ -1,6 +1,6 @@
 # One Month Rails-djl
 
-this is the pitneresting sample app for
+THIS IS THE PINTERESTING APP 
 [*onemonth rails*](http://onemonth.com)
 
-by [DJL](http://google.com)
+by [DJL](http://selfycheck-in.com)
